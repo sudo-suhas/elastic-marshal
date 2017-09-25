@@ -1,0 +1,22 @@
+{
+  "name": "elastic-marshal",
+  "version": "1.0.0",
+  "description": "Helper library for [un]marshalling elastic-builder objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Suhas Karanth",
+    "email": "sudo.suhas@gmail.com",
+    "url": "github.com/sudo-suhas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sudo-suhas/elastic-marshal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sudo-suhas/elastic-builder/issues"
+  }
+}
