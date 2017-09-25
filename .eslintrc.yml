@@ -1,0 +1,7 @@
+root: true
+
+extends: chatur
+
+rules:
+  # It is recommended to let git handle this with autocrlf
+  linebreak-style: off
