@@ -49,8 +49,7 @@ cases(
                 )
                 .from(0)
                 .size(10),
-            constructor: bob.RequestBodySearch,
-            skip: true
+            constructor: bob.RequestBodySearch
         },
         {
             name: 'DateHistogramAggregation',
@@ -64,8 +63,7 @@ cases(
                         'sales_deriv'
                     )
                 ),
-            constructor: bob.DateHistogramAggregation,
-            skip: true
+            constructor: bob.DateHistogramAggregation
         }
     ]
 );
