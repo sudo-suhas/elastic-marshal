@@ -1,6 +1,6 @@
 {
   "name": "elastic-marshal",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "Helper library for [un]marshalling elastic-builder objects",
   "main": "index.js",
   "files": [
